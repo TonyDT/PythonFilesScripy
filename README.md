@@ -15,6 +15,12 @@ pip3 install python-docx
 pyinstaller自行安装（建议pip更换成国内源）
 
 
+Python自动化办公可以处理Excel word 幻灯片 Pdf jpg很多很多尤其是报表类的，纸质文档类型都可以制作模板来进行批量处理。我在这里留一下我的
+微信:
+    renshengxiaochou
+QQ: 381224567
+
+有兴趣的可以一起探讨一下。
 
 
 
